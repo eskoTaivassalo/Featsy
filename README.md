@@ -1,5 +1,5 @@
 # Featsy
-an app to increase community spirit locally
+An app to increase community spirit locally
 
 Featsy site is a way to get people spend more time with others. Based in people's location and interests.
 
