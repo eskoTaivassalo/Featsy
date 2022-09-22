@@ -1,0 +1,39 @@
+{
+  "ilmoitukset": [
+    {
+      "title": "Joukkuelajit",
+      "body": "TÄSSÄPÄ TULEE TEKSTIÄ. EIKÖ SE RIVITYKÄÄN AUTOMAATTISESTI. HARMI JOS EI SILLÄ SE TAAS TEETTÄÄ PÄÄNVAIVAA LIUSÄÄ.",
+      "author": "eSKO",
+      "location": "TOHOLAMPI",
+      "id": 26
+    },
+    {
+      "title": "naapuriapu",
+      "body": "Tässä pyykkikonetta koko päivän hieronu ulos kämpäsetä. Onko tosiaan niin että joutuu vanha mies huonoilla polvilla ja selällä repimään itsensä henkihieveriin. Tule auttamaan jos vain voit. menee se 10 min ja saat hyvän mielen.",
+      "author": "Pieru-erkki",
+      "location": "Kokkola",
+      "id": 27
+    },
+    {
+      "title": "kimppakyydit",
+      "body": "aefwefgswfg",
+      "author": "fefwregf",
+      "location": "wefwef",
+      "id": 28
+    },
+    {
+      "title": "yritykset ilmoittavat",
+      "body": "erittäin hyvää shiatsuhierontaa opiskelijahinnoin. Ota yhteyttä ja varaa aikasi. www.liekkikadet.fi",
+      "author": "liekkikädet",
+      "location": "Elimäki",
+      "id": 30
+    },
+    {
+      "title": "leffaseuraa",
+      "body": "olisi mukava katoa elokuvaa ",
+      "author": "esko",
+      "location": "toholampi",
+      "id": 31
+    }
+  ]
+}
