@@ -2,24 +2,17 @@
   "ilmoitukset": [
     {
       "title": "Joukkuelajit",
-      "body": "TÄSSÄPÄ TULEE TEKSTIÄ. EIKÖ SE RIVITYKÄÄN AUTOMAATTISESTI. HARMI JOS EI SILLÄ SE TAAS TEETTÄÄ PÄÄNVAIVAA LIUSÄÄ.",
-      "author": "eSKO",
-      "location": "TOHOLAMPI",
+      "body": "TÄSSÄPÄ TULEE TEKSTIÄ.",
+      "author": "eSko",
+      "location": "toholampi",
       "id": 26
     },
     {
       "title": "naapuriapu",
       "body": "Tässä pyykkikonetta koko päivän hieronu ulos kämpäsetä. Onko tosiaan niin että joutuu vanha mies huonoilla polvilla ja selällä repimään itsensä henkihieveriin. Tule auttamaan jos vain voit. menee se 10 min ja saat hyvän mielen.",
-      "author": "Pieru-erkki",
+      "author": "erkki",
       "location": "Kokkola",
       "id": 27
-    },
-    {
-      "title": "kimppakyydit",
-      "body": "aefwefgswfg",
-      "author": "fefwregf",
-      "location": "wefwef",
-      "id": 28
     },
     {
       "title": "yritykset ilmoittavat",
